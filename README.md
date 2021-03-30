@@ -17,6 +17,6 @@
 |Uselessness count|span[id^="votes-no"]|uselessness||
 |Content|div.user-post__text|content||
 |Advantages|div.review-feature__col:has(> div[class$="positives"] > div.review-feature__item|pros||
-|Disadvantagesdiv.review-feature__col:has(> div[class$="negatives"] > div.review-feature__item|cons||
+|Disadvantages|div.review-feature__col:has(> div[class$="negatives"] > div.review-feature__item|cons||
 3. extraction of single opinion 
 4. transformation of extracted data to given data types
