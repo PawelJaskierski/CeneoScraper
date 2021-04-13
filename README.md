@@ -20,3 +20,7 @@
 |Disadvantages|div.review-feature__col:has(> div[class$="negatives"]) > div.review-feature__item|cons|list(str)|
 3. extraction of single opinion 
 4. transformation of extracted data to given data types
+
+## Stage 2 - extractioin of all opnions from single page
+
+## Stage 3 - extraction on all opinions 
