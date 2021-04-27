@@ -32,3 +32,11 @@
 3. parametrization of product id and reading product id from standard input
 
 ## Stage 4 - code refactoring 
+1. implementation of component extraction function
+2. using dictionary with components selctors and comprehension for single opinion represnatation
+
+## Stage 5 - statistical analysis of extracted opinion
+1. displaying listo of products for wchich opinions have been extracted
+2. 
+
+## Stage 6 - drawing charts based on given data
